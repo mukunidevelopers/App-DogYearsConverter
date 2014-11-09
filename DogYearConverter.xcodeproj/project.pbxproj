@@ -13,6 +13,7 @@
 		E0F9481D1A0F8E5E00ED6993 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0F9481C1A0F8E5E00ED6993 /* Images.xcassets */; };
 		E0F948201A0F8E5E00ED6993 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E0F9481E1A0F8E5E00ED6993 /* LaunchScreen.xib */; };
 		E0F9482C1A0F8E5E00ED6993 /* DogYearConverterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F9482B1A0F8E5E00ED6993 /* DogYearConverterTests.swift */; };
+		E0F948361A0F8F9100ED6993 /* dogImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0F948351A0F8F9100ED6993 /* dogImage.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		E0F948251A0F8E5E00ED6993 /* DogYearConverterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DogYearConverterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0F9482A1A0F8E5E00ED6993 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E0F9482B1A0F8E5E00ED6993 /* DogYearConverterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogYearConverterTests.swift; sourceTree = "<group>"; };
+		E0F948351A0F8F9100ED6993 /* dogImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dogImage.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		E0F948131A0F8E5E00ED6993 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E0F948351A0F8F9100ED6993 /* dogImage.jpg */,
 				E0F948141A0F8E5E00ED6993 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0F948361A0F8F9100ED6993 /* dogImage.jpg in Resources */,
 				E0F9481B1A0F8E5E00ED6993 /* Main.storyboard in Resources */,
 				E0F948201A0F8E5E00ED6993 /* LaunchScreen.xib in Resources */,
 				E0F9481D1A0F8E5E00ED6993 /* Images.xcassets in Resources */,
